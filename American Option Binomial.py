@@ -39,8 +39,8 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
-location1 = r'/Users/.../settlement.csv'
-location2 = r'/Users/.../ICE-SBV2016.csv'
+location1 = r'.../settlement.csv'
+location2 = r'.../ICE-SBV2016.csv'
 data1 = pd.read_csv(location1)
 data1_1=data1[data1['Date']=='30-Jun-2016']
 data2 = pd.read_csv(location2)
