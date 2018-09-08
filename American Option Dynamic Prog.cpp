@@ -7,7 +7,7 @@
 #include <fstream>
 #include <cstdlib>
 #include <algorithm>
-#include "/Users/.../newmat10/newmat.h"
+#include ".../newmat10/newmat.h"
 using namespace std;
 
 float up_factor, uptick_prob, downtick_prob, notick_prob, risk_free_rate, strike_price;
