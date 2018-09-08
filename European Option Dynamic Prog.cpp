@@ -1,13 +1,12 @@
-// Calculating the price of an European Option using Dynamic 
-// Programming
-// Written by Prof. Sreenivas for IE523: Financial Computing
+// Calculating the price of an European Option using Dynamic Programming
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
 #include <fstream>
 #include <cstdlib>
 #include <algorithm>
-#include "/Users/sreenivas/Documents/Courses/IE523/newmat10/newmat.h"
+#include "/newmat10/newmat.h"
 #include "normdist.h"          // this defines the normal distribution from Odegaard's files
 using namespace std;
 
