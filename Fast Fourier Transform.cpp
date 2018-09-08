@@ -1,4 +1,3 @@
-// IE523: Financial Computation
 // Processing tick-data using the Fast Fourier Transform (FFT)
 // 
 #include <unistd.h>
